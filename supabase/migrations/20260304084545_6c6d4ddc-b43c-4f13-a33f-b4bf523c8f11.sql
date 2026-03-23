@@ -1,0 +1,1 @@
+ALTER TABLE public.devis_requests ADD COLUMN phone text;

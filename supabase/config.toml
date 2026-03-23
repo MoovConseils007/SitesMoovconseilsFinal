@@ -1,0 +1,4 @@
+project_id = "wnchmlisbqpwpqyrlajl"
+
+[functions.submit-devis]
+verify_jwt = false
